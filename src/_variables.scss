@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$primary: #008080;
+$secondary: #88dfdf;
+$aktiv:#e6fcfc;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "aktiv": $aktiv,
+);
